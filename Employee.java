@@ -16,4 +16,8 @@ public class Employee {
 add function()
 {
 }
+
+add function5() // ch5
+{}
+
 	
