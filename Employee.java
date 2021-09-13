@@ -13,5 +13,7 @@ public class Employee {
 		        ee.eval(new FileReader("E:/All Programs/JEFeatures/src/com/hello.js"));  
 		    }  
 		}  
-
+add function()
+{
+}
 	
