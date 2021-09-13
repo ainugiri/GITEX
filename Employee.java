@@ -17,7 +17,13 @@ add function()
 {
 }
 
+<<<<<<< HEAD
 add function5() // ch5
 {}
 
 	
+=======
+added function3(){} cr3
+
+	
+>>>>>>> 639aadedef2fb8cca2dff82d7a17ff1239b02e01
